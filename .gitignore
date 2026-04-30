@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Personal Research Data
+data/
+manuscripts/
+*.pdf
+*.docx
