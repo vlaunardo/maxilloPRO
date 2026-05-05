@@ -3,6 +3,8 @@ OpenAI's LLM calls and the RAG pipeline that combines retrieval with generation.
 
 Set your API key via the OPENAI_API_KEY environment variable, or pass it
 explicitly to `make_client()`.
+
+Run `conda install openai` prior to using this code.
 """
 
 import os
